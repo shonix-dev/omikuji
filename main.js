@@ -3,16 +3,16 @@
 {
     //画像リスト
     const images = [
-        "/images/cyuukichi.png",
-        "/images/daikichi.png",
+        "images/cyuukichi.png",
+        "images/daikichi.png",
         "images/daikyo.png",
-        "/images/kichi.png",
-        "/images/kyou.png",
-        "/images/suekichi.png",
-        "/images/kyou.png",
+        "images/kichi.png",
+        "images/kyou.png",
+        "images/suekichi.png",
+        "images/kyou.png",
     ];
 
-    const RESET_BUTTON_PATH = "/images/omikuji.png";
+    const RESET_BUTTON_PATH = "images/omikuji.png";
 
     //DOM要素取得
     const button = document.getElementById("button");
